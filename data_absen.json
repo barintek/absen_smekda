@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nis": "1234567890",
+    "nama": "Ahmad Fauzi",
+    "no_kartu": "A1B2C3D4"
+  },
+  {
+    "id": 2,
+    "nis": "0987654321",
+    "nama": "Siti Aisyah",
+    "no_kartu": "E5F6G7H8"
+  },
+  {
+    "id": 3,
+    "nis": "1122334455",
+    "nama": "Budi Santoso",
+    "no_kartu": "X9Y8Z7W6"
+  }
+]
